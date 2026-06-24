@@ -1,0 +1,10 @@
+{
+    "graphs": {
+        "clients": {
+            "id": 1,
+            "fullName": 1,
+            "city": 1,
+            "avatarColor": 1
+        }
+    }
+}
